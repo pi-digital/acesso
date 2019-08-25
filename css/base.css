@@ -93,7 +93,7 @@ a:focus {
    padding: 2em 4em;
    width: 100%;
    color: white;
-   text-align: right;
+   text-align: center;
 }
 
 /* Header */
@@ -108,15 +108,12 @@ a:focus {
 	margin-bottom: 0;
 	padding: 0px 50px 0px 50px;
 }
-.codrops-header h1 span {
-	display: block;
-	font-weight: 300;
-	font-size: 27.5%;
-	text-transform: uppercase;
-	color: #fff;
-	letter-spacing: 0;
-	padding: 0.5em 0 1em 0;
-	font-family: 'Roboto Condensed';
+.codrops-header h2 {
+	font-weight: 200;
+	font-size: 4em;
+	line-height: 1.15;
+	margin-bottom: 0;
+	padding: 0px 50px 0px 50px;
 }
 
 /* Top Navigation Style */
