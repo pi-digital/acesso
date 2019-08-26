@@ -89,6 +89,7 @@ a:focus {
 
 .footer {
    position: relative;
+   display: block;
    left: 0;
    bottom: 0;
    padding: 2em 4em;
