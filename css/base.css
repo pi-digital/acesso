@@ -31,7 +31,7 @@ body {
 	color: #308fd9;
 	font-weight: 400;
 	font-size: 1em;
-	font-family: 'Roboto Condensed';
+	font-family: 'Arial';
 }
 .support {
 	font-weight: bold;
@@ -104,7 +104,7 @@ a:focus {
 	letter-spacing: -1px;
 }
 .codrops-header h1 {
-	font-family: "Roboto Condensed";
+	font-family: 'Arial';
 	font-weight: 600;
 	font-size: 6em;
 	line-height: 1.15;
@@ -112,7 +112,7 @@ a:focus {
 	padding: 0px 50px 0px 50px;
 }
 .codrops-header h2 {
-	font-family: Roboto;
+	font-family: 'Arial';
 	font-weight: 100;
 	font-size: 4em;
 	line-height: 1.15;
